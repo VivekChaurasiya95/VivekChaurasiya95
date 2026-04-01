@@ -35,7 +35,6 @@
   ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 </div>
@@ -65,7 +64,6 @@
   ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=plastic&logo=netlify&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-46E3B7?style=plastic&logo=render&logoColor=white)
   ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=plastic&logo=digitalocean&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=plastic&logo=googlecloud&logoColor=white)
 </div>
 
 <div align="left">
@@ -74,7 +72,6 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
   ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=plastic&logo=postgresql&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
 </div>
@@ -100,7 +97,7 @@
 
 ---
 
-## 📊 Stats
+## 📊 Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VivekChaurasiya95&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
