@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Vivek%20Chaurasiya&fontSize=42&fontColor=38BDF8&fontAlignY=65&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Vivek%20Chaurasiya&fontSize=42&fontColor=38BDF8&fontAlignY=65&animation=fadeIn&" width="100%"/>
 </div>
 
 <div align="center">
@@ -23,6 +23,10 @@
 [![ChronalLabs](https://img.shields.io/badge/ChronalLabs-6366f1?style=plastic&logo=github&logoColor=white)](https://github.com/ChronalLabs)
 
 </div>
+
+---
+
+<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
 ---
 ### 💫 About Me:
@@ -97,18 +101,30 @@
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=githubactions&logoColor=white)
 </div>
 
+<p align="center"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <a href="https://github.com/VivekChaurasiya95">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VivekChaurasiya95&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 ---
 
-## 📊 Github Stats
+## 📊 GitHub Stats & Trophies
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VivekChaurasiya95&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekChaurasiya95&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
-</div>
+<p align="center">
+  <a href="https://github.com/VivekChaurasiya95">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VivekChaurasiya95&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="VivekChaurasiya95's GitHub Stats" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekChaurasiya95&theme=tokyonight&hide_border=true" height="165"/>
 </div>
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=VivekChaurasiya95&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Vivek Chaurasiya's GitHub Trophies" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekChaurasiya95&theme=tokyo-night&hide_border=true&area=true&hide_title=true" width="95%"/>
@@ -124,7 +140,17 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/VivekChaurasiya95/VivekChaurasiya95/blob/output/space-shooter.gif?raw=true" alt="Space shooter contribution graph" />
+</p>
+
+---
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ---

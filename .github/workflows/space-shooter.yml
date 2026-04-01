@@ -1,0 +1,27 @@
+name: Generate Space Shooter Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs once a day
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Space Shooter
+        uses: czl9707/gh-space-shooter@main
+        with:
+          username: VivekChaurasiya95
+          output_path: output/space-shooter.gif
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add output/space-shooter.gif
+          git commit -m "Update space-shooter contribution graph" || echo "No changes to commit"
+          git push
