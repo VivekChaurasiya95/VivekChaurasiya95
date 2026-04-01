@@ -15,8 +15,9 @@ jobs:
       - name: Generate Space Shooter
         uses: czl9707/gh-space-shooter@main
         with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           username: VivekChaurasiya95
-          output_path: output/space-shooter.gif
+          output-path: output/space-shooter.gif
 
       - name: Commit and Push
         run: |
