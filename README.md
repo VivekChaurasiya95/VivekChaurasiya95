@@ -29,9 +29,13 @@
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
 ---
+
 ### 💫 About Me:
-#### 👋 Hi there, I'm Vivek Chaurasiya  <br><br>✌️ I'm a passionate Computer Science student and developer who loves building innovative solutions and exploring new technologies.  <br><br>🔭 I’m currently working on:  <br>- Full-stack development projects  <br>- Improving problem-solving skills (DSA)  <br><br>🤝 I’m looking to collaborate on:  <br>- Open-source projects  <br>- Innovative tech ideas & hackathons  <br><br>🆘 I’m looking for help with:  <br>- Advanced system design  <br>- Scalable application development  <br><br>🌱 I’m currently learning:  <br>- Data Structures & Algorithms  <br>- Backend Development<br>- Data Science  <br>- AI/ML basics  <br><br>⚡ Fun fact:  <br>- I enjoy turning ideas into real-world projects✌️✨
+
+#### 👋 Hi there, I'm Vivek Chaurasiya <br><br>✌️ I am a passionate Computer Science student and developer who loves building innovative solutions and exploring new technologies. <br><br>🔭 I’m currently working on: <br>- Full-stack development projects <br>- Improving problem-solving skills (DSA) <br><br>🤝 I’m looking to collaborate on: <br>- Open-source projects <br>- Innovative tech ideas & hackathons <br><br>🆘 I’m looking for help with: <br>- Advanced system design <br>- Scalable application development <br><br>🌱 I’m currently learning: <br>- Data Structures & Algorithms <br>- Backend Development<br>- Data Science <br>- AI/ML basics <br><br>⚡ Fun fact: <br>- I enjoy turning ideas into real-world projects✌️✨
+
 ---
+
 ## Tech Stack
 
 <div align="left">
@@ -147,11 +151,13 @@
 --- -->
 
 ## ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 ## 🔗 Connect with Me
+
 <p align="center"><a href="www.linkedin.com/in/vivek-chaurasiya-722037315" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/Vivek9589" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/9589062061" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:vivekchaurasiya943@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <div align="center">
