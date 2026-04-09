@@ -32,7 +32,7 @@
 
 ### 💫 About Me:
 
-#### 👋 Hi there, I'm Vivek Chaurasiya <br><br>✌️ I am a passionate Computer Science student and developer who loves building innovative solutions and exploring new technologies. <br><br>🔭 I’m currently working on: <br>- Full-stack development projects <br>- Improving problem-solving skills (DSA) <br><br>🤝 I’m looking to collaborate on: <br>- Open-source projects <br>- Innovative tech ideas & hackathons <br><br>🆘 I’m looking for help with: <br>- Advanced system design <br>- Scalable application development <br><br>🌱 I’m currently learning: <br>- Data Structures & Algorithms <br>- Backend Development<br>- Data Science <br>- AI/ML basics <br><br>⚡ Fun fact: <br>- I enjoy turning ideas into real-world projects✌️✨
+#### 👋 Hi there, I'm Vivek Chaurasiya <br><br>✌️ I'm a passionate Computer Science student and developer who loves building innovative solutions and exploring new technologies. <br><br>🔭 I’m currently working on: <br>- Full-stack development projects <br>- Improving problem-solving skills (DSA) <br><br>🤝 I’m looking to collaborate on: <br>- Open-source projects <br>- Innovative tech ideas & hackathons <br><br>🆘 I’m looking for help with: <br>- Advanced system design <br>- Scalable application development <br><br>🌱 I’m currently learning: <br>- Data Structures & Algorithms <br>- Backend Development<br>- Data Science <br>- AI/ML basics <br><br>⚡ Fun fact: <br>- I enjoy turning ideas into real-world projects✌️✨
 
 ---
 
