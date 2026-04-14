@@ -16,11 +16,11 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Space Shooter
-        run: |
-          python -m pip install --upgrade pip
-          pip install gh-space-shooter
-          mkdir -p output
-          gh-space-shooter VivekChaurasiya95 --output output/space-shooter.gif
+        uses: czl9707/gh-space-shooter@main
+        with:
+          username: VivekChaurasiya95
+          output-path: output/space-shooter.gif
+          github-token: ${{ secrets.GITHUB_TOKEN }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit and Push
