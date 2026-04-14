@@ -142,13 +142,13 @@
   <img src="https://raw.githubusercontent.com/VivekChaurasiya95/VivekChaurasiya95/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </div>
 
-<!-- ---
+---
 
 <p align="center">
   <img src="https://github.com/VivekChaurasiya95/VivekChaurasiya95/blob/output/space-shooter.gif?raw=true" alt="Space shooter contribution graph" />
 </p>
 
---- -->
+---
 
 ## ✍️ Random Dev Quote
 
@@ -163,3 +163,12 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
+
+---
+
+## GitHub Token Setup (Safe)
+
+- Workflows use the built-in `GITHUB_TOKEN` from GitHub Actions.
+- If you prefer a Personal Access Token for local tools/scripts, keep it only in `.env`.
+- For local usage only, keep token in `.env` as `GH_PAT=...`.
+- `.env` is gitignored and will not be pushed.

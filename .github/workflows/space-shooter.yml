@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *" # Runs once a day
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,8 +20,7 @@ jobs:
         with:
           username: VivekChaurasiya95
           output-path: output/space-shooter.gif
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit and Push
         run: |
           git config --global user.name 'github-actions[bot]'
