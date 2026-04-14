@@ -11,18 +11,37 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      GH_TOKEN: ${{ github.token }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Space Shooter
-        uses: czl9707/gh-space-shooter@main
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          username: VivekChaurasiya95
-          output-path: output/space-shooter.gif
-          github-token: ${{ github.token }}
+          python-version: "3.12"
+
+      - name: Verify GitHub Token
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "GH_TOKEN is empty. Check workflow permissions and repository action settings."
+            exit 1
+          fi
+
+      - name: Generate Space Shooter
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python -m pip install --upgrade pip
+          pip install gh-space-shooter
+          mkdir -p output
+          gh-space-shooter VivekChaurasiya95 \
+            --output output/space-shooter.gif \
+            --strategy random \
+            --fps 40
       - name: Commit and Push
         run: |
           git config --global user.name 'github-actions[bot]'
