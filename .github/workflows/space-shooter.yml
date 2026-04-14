@@ -11,6 +11,8 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -20,9 +22,7 @@ jobs:
         with:
           username: VivekChaurasiya95
           output-path: output/space-shooter.gif
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ github.token }}
       - name: Commit and Push
         run: |
           git config --global user.name 'github-actions[bot]'
