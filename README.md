@@ -139,15 +139,15 @@
 
 ## 🐍 Contributions
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VivekChaurasiya95/VivekChaurasiya95/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VivekChaurasiya95/VivekChaurasiya95/main/output/space-shooter.gif" alt="Space shooter contribution graph" />
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://github.com/VivekChaurasiya95/VivekChaurasiya95/blob/output/space-shooter.gif?raw=true" alt="Space shooter contribution graph" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VivekChaurasiya95/VivekChaurasiya95/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+</div>
 
 ---
 
@@ -159,7 +159,7 @@
 
 ## 🔗 Connect with Me
 
-<p align="center"><a href="www.linkedin.com/in/vivek-chaurasiya-722037315" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/Vivek9589" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/9589062061" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:vivekchaurasiya943@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<p align="center"><a href="www.linkedin.com/in/vivek-chaurasiya-722037315" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/Vivek9589" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.instagram.com/v.i.v.e.k_chaurasiya/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/9589062061" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:vivekchaurasiya943@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
