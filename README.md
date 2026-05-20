@@ -112,6 +112,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VivekChaurasiya95&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
   </a>
 </p>
+
 ---
 
 ## 📊 GitHub Stats & Trophies
@@ -166,9 +167,4 @@
 
 ---
 
-## GitHub Token Setup (Safe)
 
-- Workflows use the built-in `GITHUB_TOKEN` from GitHub Actions.
-- If you prefer a Personal Access Token for local tools/scripts, keep it only in `.env`.
-- For local usage only, keep token in `.env` as `GH_PAT=...`.
-- `.env` is gitignored and will not be pushed.
