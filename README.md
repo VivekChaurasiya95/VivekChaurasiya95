@@ -57,7 +57,6 @@
   ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white)
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white)
   ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=plastic&logo=chartdotjs&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white)
   ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white)
 </div>
@@ -73,7 +72,6 @@
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
   ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=plastic&logo=netlify&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-46E3B7?style=plastic&logo=render&logoColor=white)
-  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=plastic&logo=digitalocean&logoColor=white)
 </div>
 
 <div align="left">
@@ -89,12 +87,9 @@
 <div align="left">
   <h3>📊 Data Science & Analytics</h3>
   
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=plastic&logo=matplotlib&logoColor=white)
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
-  ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=plastic&logo=plotly&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white)
-  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=plastic&logo=matplotlib&logoColor=white)
 </div>
 
 <div align="left">
@@ -104,8 +99,6 @@
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=githubactions&logoColor=white)
 </div>
-
-<p align="center"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /></p>
 
 <p align="center">
   <a href="https://github.com/VivekChaurasiya95">
@@ -128,11 +121,15 @@
 </div>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=VivekChaurasiya95&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Vivek Chaurasiya's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=VivekChaurasiya95&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=8&cache_seconds=86400" alt="Vivek Chaurasiya's GitHub Trophies" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekChaurasiya95&theme=tokyo-night&hide_border=true&area=true&hide_title=true" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VivekChaurasiya95&theme=tokyonight" width="95%"/>
+</div>
+
+<div align="center">
+  <img src="https://activity-graph.vercel.app/graph?username=VivekChaurasiya95&theme=tokyo-night&hide_border=true&area=true&hide_title=true" width="95%"/>
 </div>
 
 ---
