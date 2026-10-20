@@ -22,6 +22,10 @@
 [![X](https://img.shields.io/badge/X-000000?style=plastic&logo=twitter&logoColor=white)](https://x.com/Vivek9589)
 [![ChronalLabs](https://img.shields.io/badge/ChronalLabs-6366f1?style=plastic&logo=github&logoColor=white)](https://github.com/ChronalLabs)
 
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=VivekChaurasiya95&color=38bdf8&style=plastic&label=Profile+Views)](https://github.com/VivekChaurasiya95)
+
 </div>
 
 ---
