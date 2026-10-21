@@ -24,7 +24,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=VivekChaurasiya95&color=38bdf8&style=plastic&label=Profile+Views)](https://github.com/VivekChaurasiya95)
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=VivekChaurasiya95&left_text=Profile%20Views&right_color=%2338bdf8)](https://github.com/VivekChaurasiya95)
 
 </div>
 
