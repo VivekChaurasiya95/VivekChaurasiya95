@@ -36,7 +36,83 @@
 
 ### 💫 About Me:
 
-#### 👋 Hi there, I am Vivek Chaurasiya <br><br>✌️ I'm a passionate Computer Science student and developer who loves building innovative solutions and exploring new technologies. <br><br>🔭 I’m currently working on: <br>- Full-stack development projects <br>- Improving problem-solving skills (DSA) <br><br>🤝 I’m looking to collaborate on: <br>- Open-source projects <br>- Innovative tech ideas & hackathons <br><br>🆘 I’m looking for help with: <br>- Advanced system design <br>- Scalable application development <br><br>🌱 I’m currently learning: <br>- Data Structures & Algorithms <br>- Backend Development<br>- Data Science <br>- AI/ML basics <br><br>⚡ Fun fact: <br>- I enjoy turning ideas into real-world projects✌️✨
+<!-- Animated Terminal Header -->
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=38BDF8&width=650&lines=%24+cat+about_vivek.json;%3E+Parsing+developer+attributes...;%3E+Status%3A+Actively+Seeking+SWE+Internships+%F0%9F%8E%AF;%3E+Learning%3A+System+Design+%26+High-Level+Architecture+%F0%9F%92%A1" alt="Terminal Typing" />
+  </a>
+</div>
+
+<!-- Modern Professional Badges -->
+<p align="left">
+  <a href="mailto:vivekchaurasiya943@gmail.com">
+    <img src="https://img.shields.io/badge/🎯_Opportunity-Seeking_SWE_Internships-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Seeking SWE Internships" />
+  </a>
+  <a href="#about-me">
+    <img src="https://img.shields.io/badge/💡_Mentorship-Seeking_System_Design_Guidance-7c3aed?style=for-the-badge&logo=airplayvideo&logoColor=white" alt="Seeking System Design Guidance" />
+  </a>
+  <a href="https://github.com/VivekChaurasiya95">
+    <img src="https://img.shields.io/badge/🚀_Collab-Open_to_Projects_%26_Hackathons-059669?style=for-the-badge&logo=github&logoColor=white" alt="Collaborate" />
+  </a>
+</p>
+
+<!-- macOS Terminal Header -->
+<div align="left">
+
+<p>
+  <b>🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢&nbsp;&nbsp; <code>vivek@developer: ~/about_me.json</code></b>
+</p>
+
+```jsonc
+{
+  "name": "Vivek Chaurasiya",
+  "role": "Computer Science Student & Full-Stack Developer 💻",
+  "opportunity_status": "Actively Seeking SWE / Full-Stack Internships 🎯",
+  "current_focus": [
+    "Full-Stack Web Development (React.js, Node.js, Express)",
+    "Data Structures & Algorithms in C++ (Competitive Problem Solving)"
+  ],
+  "seeking_mentorship_in": [
+    "System Design & Scalable Architecture (Eager to learn from experienced devs 💡)",
+    "Distributed Systems, Microservices & Database Optimization"
+  ],
+  "open_to_collaborate": [
+    "High-impact Open-Source projects",
+    "Innovative Tech Hackathons & Product MVPs"
+  ],
+  "currently_learning": [
+    "System Design Fundamentals (High-Level & Low-Level Architecture)",
+    "Advanced Backend Architecture & Scalability",
+    "Data Science & Machine Learning Foundations"
+  ],
+  "philosophy": "I enjoy turning ambitious ideas into clean, real-world code ✌️✨"
+}
+```
+
+</div>
+
+<!-- Quick Stats Tab -->
+<details>
+  <summary>
+    <b>⚡ <code>quick_stats.json</code></b> <i>(Click to expand quick specs)</i>
+  </summary>
+
+```json
+{
+  "languages": ["C", "C++", "Python", "JavaScript", "HTML5", "CSS3"],
+  "focus_areas": ["Full-Stack Engineering", "DSA & Algorithms", "AI/ML Exploration"],
+  "current_goal": "Secure SWE Internship & master scalable system architecture",
+  "coffee_converted_to_code": "∞"
+}
+```
+
+</details>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="560" alt="Cyberpunk Developer Desk Animation" style="border-radius: 10px;" />
+</div>
 
 ---
 
